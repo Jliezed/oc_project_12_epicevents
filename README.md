@@ -109,7 +109,15 @@ Customer Model for Change Action :
       DEBUG=True
       ALLOWED_HOSTS=['127.0.0.1']
       ```
-
+   4. Setup the database information
+      ```sh
+      DATABASE_NAME="YOUR_DATABASE_NAME"
+      DATABASE_USER="YOUR_DATABASE_USER"
+      DATABASE_PASSWORD="YOUR_DATABASE_PASSWORD"
+      DATABASE_HOST="YOUR_DATABASE_HOST"
+      DATABASE_PORT="5432"
+      ```
+      
 #### Access to the App
 9. Run the server
    ```sh
