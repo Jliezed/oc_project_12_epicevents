@@ -8,29 +8,28 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
+[![oc][oc-project-shield]][oc-project-url]
+[![rest-api][rest-api-shield]][rest-api-url]
+[![django-rest-framework][django-rest-framework-shield]][django-rest-framework-url]
+[![endpoints][endpoints-shield]][endpoints-url]
+[![permissions][permissions-shield]][permissions-url]
+[![postman][postman-shield]][postman-url]
+[![postgresql][postgresql-shield]][postgresql-url]
+[![logging][logging-shield]][logging-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
-<h3 align="center">OC - PROJECT N°12 - CRM Platform using Django ORM Back-end </h3>
+<h1 align="center">OC - PROJECT N°12 - CRM Platform using Django ORM Back-end </h1>
 
   <p align="center">
    Epic Events is a CRM App used internally to handle customers info, contracts and events.
     <br />
-    <a href="https://github.com/Jliezed/oc_project_12_epicevents">View Demo</a>
-    ·
-    <a href="https://github.com/Jliezed/oc_project_12_epicevents/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Jliezed/oc_project_12_epicevents/issues">Request Feature</a>
-  </p>
+</p>
 </div>
+<img src="https://images.unsplash.com/photo-1508997449629-303059a039c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80">
+<a href="https://images.unsplash.com/photo-1508997449629-303059a039c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"><small>By Britt Gaiser</small></a>
 
 
 
@@ -64,6 +63,8 @@ Customer Model for Change Action :
 
 * Python 
 * Django Rest Framework
+* PostgreSQL
+* Postman
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -147,32 +148,29 @@ Customer Model for Change Action :
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Jliezed
-
-Project Link: [https://github.com/Jliezed/oc_project_12_epicevents.git](https://github.com/Jliezed/oc_project_10_softdesk.git)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Jliezed/oc_project_12_epicevents.svg?style=for-the-badge
-[contributors-url]: https://github.com/Jliezed/oc_project_12_epicevents/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Jliezed/oc_project_12_epicevents.svg?style=for-the-badge
-[forks-url]: https://github.com/Jliezed/oc_project_12_epicevents/network/members
-[stars-shield]: https://img.shields.io/github/stars/Jliezed/oc_project_12_epicevents.svg?style=for-the-badge
-[stars-url]: https://github.com/Jliezed/oc_project_12_epicevents/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Jliezed/oc_project_12_epicevents.svg?style=for-the-badge
-[issues-url]: https://github.com/Jliezed/oc_project_12_epicevents/issues
-[license-shield]: https://img.shields.io/github/license/Jliezed/oc_project_12_epicevents.svg?style=for-the-badge
-[license-url]: https://github.com/Jliezed/oc_project_12_epicevents/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[oc-project-shield]: https://img.shields.io/badge/OPENCLASSROOMS-PROJECT-blueviolet?style=for-the-badge
+[oc-project-url]: https://openclassrooms.com/fr/paths/518-developpeur-dapplication-python
+
+[rest-api-shield]: https://img.shields.io/badge/-REST%20API-blue?style=for-the-badge
+[rest-api-url]: https://en.wikipedia.org/wiki/Representational_state_transfer
+
+[django-rest-framework-shield]: https://img.shields.io/badge/-Django%20Rest%20Framework-blue?style=for-the-badge
+[django-rest-framework-url]: https://www.django-rest-framework.org/
+
+[endpoints-shield]: https://img.shields.io/badge/-ENDPOINTS-blue?style=for-the-badge
+[endpoints-url]: https://kinsta.com/knowledgebase/api-endpoint/
+
+[postman-shield]: https://img.shields.io/badge/-POSTMAN-blue?style=for-the-badge
+[postman-url]: https://www.postman.com/
+
+[permissions-shield]: https://img.shields.io/badge/-PERMISSIONS-blue?style=for-the-badge
+[permissions-url]: https://www.django-rest-framework.org/api-guide/permissions/
+
+[postgresql-shield]: https://img.shields.io/badge/-POSTGRESQL-blue?style=for-the-badge
+[postgresql-url]: https://www.postgresql.org/
+
+[logging-shield]: https://img.shields.io/badge/-LOGGING-blue?style=for-the-badge
+[logging-url]: https://docs.python.org/3/howto/logging.html
